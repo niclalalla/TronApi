@@ -1,5 +1,5 @@
 {
-    "name": "anonymhk/tronapi",
+    "name": "niclalalla/tronapi",
     "description": "Support TRON's TRX and TRC20, A PHP library to create Tron wallet addresses and manage wallets using the Tron API",
     "keywords": [
         "php",
@@ -8,11 +8,14 @@
         "trc20"
     ],
     "type": "library",
-    "homepage": "https://github.com/anonymhk/tronapi",
+    "homepage": "https://github.com/niclalalla/tronapi",
     "license": "MIT",
     "authors": [
         {
             "name": "anonymhk"
+        },
+        {
+            "name": "niclalalla"
         }
     ],
     "require": {
